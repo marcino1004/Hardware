@@ -36,7 +36,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Domowy Sterownik GSM"
-Date "16 mar 2015"
+Date "17 mar 2015"
 Rev ""
 Comp "Marcin Kowalski, Łukasz Tim, Adrian Wrotecki"
 Comment1 "Część Sterująca"
@@ -2110,17 +2110,6 @@ F 1 "TLP281-4" H 1949 5916 40  0000 C CNN
 F 2 "SOP16" H 1686 5926 29  0000 C CNN
 F 3 "" H 1850 6100 60  0000 C CNN
 	1    1850 6100
-	1    0    0    -1  
-$EndComp
-$Comp
-L TLP291-4 IC?
-U 1 1 55074DC5
-P 1850 6650
-F 0 "IC?" H 1662 6828 40  0000 C CNN
-F 1 "TLP281-4" H 1949 6466 40  0000 C CNN
-F 2 "SOP16" H 1686 6476 29  0000 C CNN
-F 3 "" H 1850 6650 60  0000 C CNN
-	1    1850 6650
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
